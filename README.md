@@ -4,7 +4,7 @@
   - Qual o valor total vendido?
   - Quantidade de vendas realizadas por categoria de produto?
   - Quantidade de vendas realizadas por categoria de produto?
-  - Qual foi a média de descontos na venda por subcategoria de produto?
+  - Qual foi a média de descontos nas vendas por subcategoria de produto?
   - Quais paises tiveram a maior média de valor de venda?
   
 
